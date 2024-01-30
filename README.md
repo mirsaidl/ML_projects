@@ -1,2 +1,3 @@
-# Machine-Learning-Coursera
-How I am learning machine learning?
+# Machine-Learning
+
+Machine Learning algorithms
