@@ -1,3 +1,3 @@
 # Machine-Learning
 
-Machine Learning algorithms
+Machine Learning algorithms and projects
