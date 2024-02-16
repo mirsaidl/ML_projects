@@ -19,6 +19,8 @@ Welcome to the Machine Learning Algorithms and Projects Repository! This reposit
    - [California house price prediction]
    - [Tashkent house price prediction]
    - [Credit status check]
+   - [Diabetes Diagnosis]
+   - [Cancer check Status]
 
 The code in this repository is written in Python. You need the following libraries to run the scripts:
 - NumPy
