@@ -22,6 +22,7 @@ Welcome to the Machine Learning Algorithms and Projects Repository! This reposit
    - [Diabetes Diagnosis]
    - [Cancer check Status]
    - [Customer Churn]
+   - [Customer Clustering - Unsupervised learning ML]
 
 The code in this repository is written in Python. You need the following libraries to run the scripts:
 - NumPy
