@@ -21,6 +21,7 @@ Welcome to the Machine Learning Algorithms and Projects Repository! This reposit
    - [Credit status check]
    - [Diabetes Diagnosis]
    - [Cancer check Status]
+   - [Customer Churn]
 
 The code in this repository is written in Python. You need the following libraries to run the scripts:
 - NumPy
